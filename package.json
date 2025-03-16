@@ -47,8 +47,14 @@
   },
   "keywords": [
     "react-native",
-    "ios",
-    "android"
+    "android",
+    "@splicer97/react-native-android-keyboard-adjust",
+    "react-native-android-keyboard-adjust",
+    "@rn-android-keyboard-adjust",
+    "android-keyboard-adjust",
+    "keyboard-adjust",
+    "keyboard",
+    "adjust"
   ],
   "repository": {
     "type": "git",
