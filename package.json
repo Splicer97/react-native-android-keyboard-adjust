@@ -1,6 +1,6 @@
 {
   "name": "@splicer97/react-native-android-keyboard-adjust",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simple android native module to manipulate the behavior of keyboard",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
